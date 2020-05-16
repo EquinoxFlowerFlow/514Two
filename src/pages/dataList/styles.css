@@ -1,0 +1,13 @@
+.list {
+  display: inline-block;
+}
+.list div {
+  display: inline-block;
+}
+.list div ul {
+  border: 2px solid #ccc;
+  margin-right: 10px;
+}
+.list div ul li {
+  list-style: none;
+}

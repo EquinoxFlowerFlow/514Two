@@ -1,0 +1,22 @@
+.ant-form {
+  width: 50%;
+}
+.ant-form .ant-row .ant-form-item-control-wrapper {
+  float: left;
+  margin-left: 5px;
+}
+.ant-form .ant-row .ant-form-item-control-wrapper .ant-form-item-control {
+  width: 100% !important;
+}
+.ant-form .ant-row .ant-form-item-control-wrapper .ant-form-item-control .ant-form-item-children button {
+  margin-left: 60px;
+}
+.ant-form .ant-row .ant-form-item-control-wrapper .ant-form-item-control .ant-form-item-children .ant-input-affix-wrapper {
+  width: 100% !important;
+}
+.ant-form .ant-row .ant-form-item-label {
+  float: left;
+}
+.ant-form .ant-form-item-with-help {
+  margin-right: 10px;
+}
